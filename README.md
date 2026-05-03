@@ -2,7 +2,7 @@
 A humanized Python based Text to Speech assistant designed as a study companion for BE-CSE coursework. Named 'Mahi' this project turns complex Discrete Mathematics notes into interactive audio.
 import pyttsx3
 
-# Project Name: LogiVox
+# Project Name: Mahi
 def logivox_assistant():
     # Initialize
     engine = pyttsx3.init()
